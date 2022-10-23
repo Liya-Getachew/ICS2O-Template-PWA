@@ -19,5 +19,5 @@ if (navigator.serviceWorker) {
  * This function ...
  */
 function myButtonClicked() {
-  document.getElementById("hello-world").innerHTML = "<p>Told you :)</p>"
+  document.getElementById("hello-world").innerHTML = "p>Hello, World!</p>"
 }
