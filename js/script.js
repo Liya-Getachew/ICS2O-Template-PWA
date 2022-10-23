@@ -18,6 +18,6 @@ if (navigator.serviceWorker) {
 /**
  * This function ...
  */
-function myButtonClicked() {
-  document.getElementById("hello-world").innerHTML = "p>Hello, World!</p>"
+function clicked() {
+  document.getElementById("hello").innerHTML = "<p>Hello, World!</p>"
 }
