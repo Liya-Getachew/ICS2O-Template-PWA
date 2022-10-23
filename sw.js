@@ -1,4 +1,4 @@
-var GHPATH = "/ICS2O-Template"
+var GHPATH = "/ICS2O-Template-PWA"
 var APP_PREFIX = "gppwa_"
 var VERSION = "version_001"
 var URLS = [
